@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{18C70293-A95C-F4B4-DC63-C0EB0B7DF627}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Oscilator.cs">
+    <Files>
+      <File FileName="Assets/Rocket.cs" Line="77" Column="31" />
+      <File FileName="Assets/Oscilator.cs" Line="6" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="unity-first-game" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Oscilator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="61204f64-d9d0-4534-b27b-aebc751f645c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
